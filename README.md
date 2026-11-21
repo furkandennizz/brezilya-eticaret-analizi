@@ -9,9 +9,9 @@ Proje dört notebook ve etkileşimli bir dashboard'dan oluşuyor: keşifsel sat�
 | [02 · Coğrafi analiz](02_cografi_analiz.ipynb) | Müşteri/satıcı haritaları, teslimat süresi ve puan haritaları, mesafenin etkisi, eyaletler arası akış |
 | [03 · Duygu analizi](03_duygu_analizi.ipynb) | TF-IDF + lojistik regresyon duygu modeli, şikâyet konuları, anket zamanlaması |
 | [04 · Geç teslimat modeli](04_gec_teslimat_modeli.ipynb) | Zamana göre doğrulanmış sınıflandırma modeli, dönemsel performans, rejim değişikliği |
-| [Dashboard](https://tekfora.github.io/brezilya-eticaret-analizi/dashboard/olist_panosu.html) | Dönem, eyalet ve kategoriye göre filtrelenebilen tek dosyalık HTML pano |
+| [Dashboard](https://furkandennizz.github.io/brezilya-eticaret-analizi/dashboard/olist_panosu.html) | Dönem, eyalet ve kategoriye göre filtrelenebilen tek dosyalık HTML pano |
 
-**Canlı dashboard:** https://tekfora.github.io/brezilya-eticaret-analizi/dashboard/olist_panosu.html
+**Canlı dashboard:** https://furkandennizz.github.io/brezilya-eticaret-analizi/dashboard/olist_panosu.html
 
 ## Öne çıkan bulgular
 
